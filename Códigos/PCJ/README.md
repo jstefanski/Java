@@ -1,4 +1,6 @@
-<h2> Programação de Computadores - Rui Rossi dos Santos </h2>
+<h1> Programação de Computadores - Rui Rossi dos Santos </h1>
+
+<h2> Exercícios </h2>
 
 <!-- toc -->
   * Capítulo 1 - Introdução ao Java (Sem Códigos)
