@@ -1,4 +1,4 @@
-<h1> Programação de Computadores - Rui Rossi dos Santos </h1>
+<h2> Programação de Computadores - Rui Rossi dos Santos </h2>
 
 <!-- toc -->
   * Códigos
@@ -14,14 +14,5 @@
         * [Código 3.9: Entrada](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Construcao_de_Aplicativos_03/Codigo09.java)
         * [Código 3.10: EntradaScanner](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Construcao_de_Aplicativos_03/Codigo10.java)
         * [Código 3.11: DialogoGrafico](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Construcao_de_Aplicativos_03/Codigo11.java)
-      * Capítulo 4 - Variáveis e Constantes
-      * Capítulo 5 - Introdução à API do Java 
-  * Exercícios
-      * Capítulo 3 - Construção de Aplicativos
-        * [Exercício 1](https://github.com/jstefanski/Java/blob/main/Exerc%C3%ADcios/PCJ/Construcao_de_Aplicativos_03/Exercicio01.java)
-        * [Exercício 2](https://github.com/jstefanski/Java/blob/main/Exerc%C3%ADcios/PCJ/Construcao_de_Aplicativos_03/Exercicio02.java)
-        * [Exercício 3](https://github.com/jstefanski/Java/blob/main/Exerc%C3%ADcios/PCJ/Construcao_de_Aplicativos_03/Exercicio03.java)
-        * [Exercício 4](https://github.com/jstefanski/Java/blob/main/Exerc%C3%ADcios/PCJ/Construcao_de_Aplicativos_03/Exercicio04.java)
-        * [Exercício 5](https://github.com/jstefanski/Java/blob/main/Exerc%C3%ADcios/PCJ/Construcao_de_Aplicativos_03/Exercicio05.java)
       * Capítulo 4 - Variáveis e Constantes
       * Capítulo 5 - Introdução à API do Java
