@@ -15,4 +15,4 @@
   * Projetos  
   * [Exercícios](https://github.com/jstefanski/Java/tree/main/Exerc%C3%ADcios)
 
-*Os códigos e exercícios identificados por PCJ, fazem parte do livro Programação de Computadores em Java do Autor Rui Rossi dos Santos, disponível todo o material no prórpio site do autor http://www.ruirossi.pro.br/livros/index.html todos os direitos e créditos.*
+*Os códigos e exercícios identificados por PCJ, fazem parte do livro Programação de Computadores em Java do Autor Rui Rossi dos Santos, disponível todo o material no próprio site do autor http://www.ruirossi.pro.br/livros/index.html todos os direitos e créditos.*
