@@ -18,4 +18,8 @@
       * [Código 3.10: EntradaScanner](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Construcao_de_Aplicativos_03/Codigo10.java)
       * [Código 3.11: DialogoGrafico](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Construcao_de_Aplicativos_03/Codigo11.java)
   * Capítulo 4 - Variáveis e Constantes
+      * [Código 4.1: NumerosInteiros](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo01.java)
+      * [Código 4.2: NumerosDecimais](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo02.java)
+      * [Código 4.3: ConversaoNumeros](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo03.java)
+      * [Código 4.4: ConversaoTextoNumeros](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo04.java)
   * Capítulo 5 - Introdução à API do Java
