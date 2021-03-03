@@ -13,5 +13,11 @@
 <!-- toc -->
   * Outros
   * Códigos
+      * PCJ
+              * Construção de Aplicativos
   * Projetos  
   * Exercícios
+      * PCJ
+              * Construção de Aplicativos
+
+*Os códigos e exercícios identificados por PCJ, fazem parte do livro Programação de Computadores em Java do Autor Rui Rossi dos Santos, disponível todo o material no prórpio site do autor http://www.ruirossi.pro.br/livros/index.html todos os direitos e créditos ao Autor.*
