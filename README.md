@@ -11,13 +11,16 @@
 <h2>Sumário</h2>
 
 <!-- toc -->
-  * Outros
   * Códigos
       * PCJ
-          * Construção de Aplicativos
+          * Capítulo 3 - Construção de Aplicativos
+          * Capítulo 4 - Variáveis e Constantes
+          * Capítulo 5 - Introdução à API do Java
   * Projetos  
   * Exercícios
       * PCJ
-          * Construção de Aplicativos
+          * Capítulo 3 - Construção de Aplicativos
+          * Capítulo 4 - Variáveis e Constantes
+          * Capítulo 5 - Introdução à API do Java
 
-*Os códigos e exercícios identificados por PCJ, fazem parte do livro Programação de Computadores em Java do Autor Rui Rossi dos Santos, disponível todo o material no prórpio site do autor http://www.ruirossi.pro.br/livros/index.html todos os direitos e créditos ao Autor.*
+*Os códigos e exercícios identificados por PCJ, fazem parte do livro Programação de Computadores em Java do Autor Rui Rossi dos Santos, disponível todo o material no prórpio site do autor http://www.ruirossi.pro.br/livros/index.html todos os direitos e créditos.*
