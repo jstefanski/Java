@@ -5,12 +5,13 @@
 
 <h1> Java </h1>
 
-*Este repositório foi criado para armazenar códigos, projetos e exercícios utilizando Java.*
+*Este repositório foi criado para armazenar códigos, projetos, exercícios e muito mais utilizando Java.*
 
 --------------------------------------------------
 <h2>Sumário</h2>
 
 <!-- toc -->
+  * Outros
   * Códigos
   * Projetos  
   * Exercícios
