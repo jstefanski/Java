@@ -22,4 +22,9 @@
       * [Código 4.2: NumerosDecimais](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo02.java)
       * [Código 4.3: ConversaoNumeros](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo03.java)
       * [Código 4.4: ConversaoTextoNumeros](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo04.java)
+      * [Código 4.5: ConversaoNumerosTexto](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo05.java)
+      * [Código 4.6: ConversaoCaractereNumero](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo06.java)
+      * [Código 4.7: ConversaoNumeroCaractere](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo07.java)
+      * [Código 4.8: Constantes](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo08.java)
+      * [Código 4.9: CalculoImpostos](https://github.com/jstefanski/Java/blob/main/C%C3%B3digos/PCJ/Variaveis_e_Constantes_04/Codigo09.java)
   * Capítulo 5 - Introdução à API do Java
