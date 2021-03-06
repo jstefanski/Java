@@ -1,12 +1,10 @@
-package Construcao_de_Aplicativos_03.Exercicios;
-
 /*
  * Crie um novo aplicativo chamado Exercicio4, que solicite o nome, nacionalidade e o telefone de seu usuário e que, ao
  * final, apresente estes três dados como se fosse uma confirmação de cadastro. As saídas produzidas por este aplicativo
- * devem ser idênticas àquelas apresentadas na Figura 3.16. Aleém disso, você deve implementar este aplicativo utilizando
+ * devem ser idênticas àquelas apresentadas na Figura 3.16. Além disso, você deve implementar este aplicativo utilizando
  * a classe java.util.Scanner para captar as entradas de dados.
  *
- * A realização dessa tarefa implicará na importação da classe supracitada e na criaçãode um objeto que monitore os dados
+ * A realização dessa tarefa implicará na importação da classe supracitada e na criação de um objeto que monitore os dados
  * que serão informados pelo usuário através da janela de comando. O método nextLine() deste objeto precisará ser executado
  * por três vezes no aplicativo, um para cada dado a ser captado.
  */

@@ -1,5 +1,3 @@
-package Variaveis_e_Constantes_04.Exercicios;
-
 /*
  * Crie um novo aplicativo, chamado Exercicio7, que solicite um único caractere e informe qual é o caractere seguinte na
  * tabela Unicode. A figura 4.15 ilustra qual deverá ser o resultado quando for inforamda a letra C.

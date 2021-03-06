@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Exercicios;
-
 /*
  * Crie um novo aplicativo, chamado Exercicio1, que capte o nome de cinco animais através de argumentos na própria
  * janela de comando e que liste todos os dados informados do modo como está representado na Figura 3.13.

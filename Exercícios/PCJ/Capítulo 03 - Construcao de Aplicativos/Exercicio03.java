@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Exercicios;
-
 /*
  * Crie um novo aplicativo, chamado Exercicio3, que solicite o nome e o e-mail ao seu usuário e que, ao final, apresente
  * estes dois dados como se fosse uma confirmação de cadastro. As saídas produzidas por este aplicativo devem se

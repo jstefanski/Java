@@ -1,10 +1,8 @@
-package Variaveis_e_Constantes_04.Exercicios;
-
 /*
- * Crie um novo aplicativo, chamado Exercicio2, que solicite trÊs dados ao seu usuário: seu nome completo, seu sexo e sua
+ * Crie um novo aplicativo, chamado Exercicio2, que solicite três dados ao seu usuário: seu nome completo, seu sexo e sua
  * renda familiar. Todos estes dados devem ser captados através de diálogos gráficos e, para isso, você deve utilizar a
  * classe javax.swing.JOptionPane. O nome deve ser armazenado em um objeto do tipo String, o sexo deve ser armazenado em uma
- * váriavel do tipo char e a renda familiar deve ser armazenada em uma variável do tipo double. Ao final, o aplicativo deve
+ * variável do tipo char e a renda familiar deve ser armazenada em uma variável do tipo double. Ao final, o aplicativo deve
  * exibir uma mensagem através de um diálogo gráfico. Esta mensagem deve apresentar os três dados informados no mesmo formato
  * em que se apresentam na Figura 4.10.
  */

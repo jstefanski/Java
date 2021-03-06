@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Exercicios;
-
 /*
  * Crie um novo aplicativo chamado Exercicio2, que apresente a tabuada do número 9 utilizando uma disposição idêntica à
  * da Figura 3.14 para organizar todos os dados. Note que estes dados estão divididos em dois grandes blocos e que

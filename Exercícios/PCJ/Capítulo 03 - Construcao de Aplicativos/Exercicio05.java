@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Exercicios;
-
 /*
  * Crie um novo aplicativo chamado Exercicio5, que solicite o nome dos dois jogos prediletos de seu usuário e que, ao final,
  * apresente estes dois dados através de uma única mensagem gráfica. Este aplicativo também deve captar os dois dados através

@@ -1,8 +1,6 @@
-package Variaveis_e_Constantes_04.Exercicios;
-
 /*
  * Crie um novo aplicativo, chamado Exercicio4, que solicite um número inteiro e calcule o seu cubo. Tanto a captação do
- * número quanto a exibição do resultado devem ser feitas atra´´es de diálogos gráficos. A figura 4.12 ilustra os diálogos
+ * número quanto a exibição do resultado devem ser feitas através de diálogos gráficos. A figura 4.12 ilustra os diálogos
  * que deverão ser produzidos por este aplicativo.
  */
 

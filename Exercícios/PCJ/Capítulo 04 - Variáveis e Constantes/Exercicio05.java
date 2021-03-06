@@ -1,8 +1,6 @@
-package Variaveis_e_Constantes_04.Exercicios;
-
 /*
  * Crie um novo aplicativo, chamado Exercicio5, que solicite três dados: o nome de um vendedor, o valor de vendas realizadas
- * por ele em um determinado mês e percentuial de comissão a que ele tem direito. Todos estes dados devem ser captadors na
+ * por ele em um determinado mês e percentual de comissão a que ele tem direito. Todos estes dados devem ser captados na
  * própria janela de comando. O nome deve ser armazenado em um objeto do tipo String e os outros dois dados devem ser armazenados
  * em variáveis do tipo double. A tarefa do aplicativo é calcular e exibir o valor que deve ser pago a este vendedor à título
  * de comissão. A Figura 4.13 ilustra as saídas que devem ser produzidas por este aplicativo.
