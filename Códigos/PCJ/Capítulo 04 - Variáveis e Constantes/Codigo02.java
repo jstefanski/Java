@@ -1,5 +1,3 @@
-package Variaveis_e_Constantes_04.Codigos;
-
 import javax.swing.JOptionPane;
 
 public class Codigo02 {

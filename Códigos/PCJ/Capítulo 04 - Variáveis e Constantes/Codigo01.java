@@ -1,5 +1,3 @@
-package Variaveis_e_Constantes_04.Codigos;
-
 public class Codigo01 {
     public static void main(String[] args) {
         byte bt;

@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Codigos;
-
 import javax.swing.*;
 
 public class Codigo02 {

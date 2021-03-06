@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Codigos;
-
 import java.util.Scanner;
 
 public class Codigo10 {

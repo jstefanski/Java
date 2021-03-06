@@ -1,5 +1,3 @@
-package Construcao_de_Aplicativos_03.Codigos;
-
 import java.io.IOException;
 
 public class Codigo09 {
